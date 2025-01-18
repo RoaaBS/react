@@ -1,8 +1,22 @@
-# React + Vite
+# React + Vite Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project uses dummy data with JSON for mock APIs.
 
-Currently, two official plugins are available:
+### Components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Navbar**: The navigation bar component with links and routing functionality.
+- **Product**: Product card and listing components.
+- **Category**: Displays different product categories.
+- **Home**: The homepage layout and structure.
+- **Footer**: A footer component with useful links
+- **Create**: A form or page component for creating new product
+- **Quotes**: A section or component to display randome quotes 
+
+### Additional Folders
+
+- **css**: Contains the styling for the application.
+- **jsx**: Includes the JSX components that are part of your app.
+
+
+
+
