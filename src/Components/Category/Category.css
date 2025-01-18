@@ -1,0 +1,14 @@
+.category-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: center; 
+    padding: 20px;
+  }
+  .btn{
+    background-color: peru;
+    border-color:peru;
+  }
+  .btn:hover{
+    background-color: beige;
+  }

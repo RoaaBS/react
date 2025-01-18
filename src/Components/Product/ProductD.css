@@ -1,0 +1,14 @@
+p{
+    padding-left: 30px;
+}
+.product img{
+    padding-left: 30%;
+}
+.price{
+    color: red;
+}
+.product h1{
+    margin-top: 100px;
+    margin-left: 30px;
+    font-size: 24px;
+}

@@ -1,0 +1,40 @@
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: center; 
+    padding: 20px;
+  }
+  
+
+  .card {
+    max-width: 300px; 
+    border: 1px solid rgb(173, 170, 170);
+    border-radius: 6px;
+    padding: 15px;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+
+  .card h5,
+  .card p {
+    font-size: 15px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .card h5{
+   font-weight: bold;
+  }
+  
+
+  .card-img-top {
+    width: 100%;
+    height:fit-content;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+  
+  
+  
